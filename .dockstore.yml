@@ -5,4 +5,4 @@
       name: PharmCAP_Pipeline
       readMePath: /README.md
       testParameterFiles:
-        - /parameters.json
+        - /test.json
